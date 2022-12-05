@@ -35,4 +35,9 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    
+  fonts:
+    - family: Mantina
+      fonts:
+        - asset: assets/fonts/mantinia_regular.otf
 
